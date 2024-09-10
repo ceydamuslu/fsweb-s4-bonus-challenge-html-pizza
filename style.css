@@ -1,6 +1,5 @@
-* {
-  border: 1px solid purple;
-}
+
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -40,9 +39,195 @@ body {
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  width: 553px;
+  height: 1363px;
+ 
+}
+.opening {
   background-color: #CE2829;
-  ;
-  ;
+}
+.opening img {
+  width: 550px;
+height: 540px;
+
+}
+.opening h1 {
+  font-family: vector;
+  color: white;
+  padding:70px;
+  margin-top: auto;
+}
+.opening h2 {
+font-family: Roboto Condensed;
+font-size: 80px;
+
+font-weight: 300;
+line-height: 85px;
+letter-spacing: 1.5px;
+text-align: center;
+color: white;
+
+
+ }
+.opening button {
+width: 193.27px;
+height: 56px;
+gap: 0px;
+border-radius: 50px 50px 50px 50px;
+opacity: 0px;
+background-color: #fdc913;
+text-align: center;
+}
+.container1 {
+  width: 411px;
+  height: 248px;
+  padding: 32px;
+  gap: 41px;
+  opacity: 0px;
+  display:flex;
+  
+  
+}
+.meal-items {
+  width: 541px;
+  height: 268px;
+ 
+  
+}
+.meal-items img {
+  width: 42px;
+  height: 42px;
+  
+
+}
+
+
+
+.container2 {
+width: 422px;
+height:908px;
+gap: 16px;
+opacity: 0px;
+
+}
+.shortcut-items {
+width: 541px;
+height: 3,491px;
+top: 1088px;
+left: -1px;
+gap: 40px;
+opacity: 0px;
+
+}
+.shortcut1 {
+background-color: #CE2829;
+width: 422px;
+height: 270px;
+padding: 50px;
+border-radius: 12px 12px 12px 12px;
+margin: 30px;
+
+
+}
+.shortcut1 img {
+  width: 422px;
+  height: 336px;
+  border-radius: 12px 12px 12px 12px;
+  padding: 0px;
+  margin: 0px;
+  
+  
+  
+}
+.shortcut1 button {
+  width: 138px;
+  height: 48px;
+  border-radius: 50px 50px 50px 50px;
+  display: flex;
+  color: #CE2829;
+}
+.shortcut1 h1 {
+width: 388px;
+height: 120px;
+left: -10px;
+gap: 0px;
+font-family: Quattrocento;
+font-size: 68px;
+font-weight: 700;
+line-height: 72px;
+text-align: left;
+color: #ffffff;
+
+}
+.shortcut1 h2 {
+width: 275px;
+height: 30px;
+font-family: Barlow;
+font-size: 20px;
+font-weight: 600px;
+line-height: 0px;
+text-align: left;
+color: #ffffff;
+
+}
+  .shortcut2 {
+    width: 422px;
+    height: 270px;
+    padding: 50px;
+    border-radius: 12px 12px 12px 12px;
+    margin: 30px;
+    background-color: #242424;
+
+  }
+  .shortcut2 button {
+  width: 138px;
+  height: 48px;
+  border-radius: 50px 50px 50px 50px;
+  display: flex;
+  color: #CE2829;
+  align-items: center;
+  }
+
+.shortcut2 h1 {
+width: 182px;
+height: 86px;
+left: 32px;
+font-family: Barlow;
+font-size: 40px;
+line-height: 48px;
+text-align: left;
+color:#ffffff;
+
+  }
+.shortcut3 {
+width: 422px;
+height: 270px;
+padding: 50px;
+border-radius: 12px 12px 12px 12px;
+margin: 30px;
+background-color: #FFEECC;
+
+}
+.container3 {
+  width: Fixed (395px)px;
+height: Fixed (229px)px;
+gap: 82px;
+opacity: 0px;
+
+}
+.container3 h1 {
+  width: 395px;
+height: 46px;
+
+color: #CE2829;
+font-family: Satisfy;
+font-size: 32px;
+font-weight: 400;
+line-height: 44.27px;
+text-align: center;
+margin-top: 10px;
+
+
 }
 
 .logo {
