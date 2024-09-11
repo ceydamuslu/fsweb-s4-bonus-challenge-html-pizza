@@ -129,16 +129,7 @@ margin: 30px;
 
 
 }
-.shortcut1 img {
-  width: 422px;
-  height: 336px;
-  border-radius: 12px 12px 12px 12px;
-  padding: 0px;
-  margin: 0px;
-  
-  
-  
-}
+
 .shortcut1 button {
   width: 138px;
   height: 48px;
@@ -149,14 +140,13 @@ margin: 30px;
 .shortcut1 h1 {
 width: 388px;
 height: 120px;
-left: -10px;
-gap: 0px;
 font-family: Quattrocento;
 font-size: 68px;
 font-weight: 700;
 line-height: 72px;
 text-align: left;
 color: #ffffff;
+
 
 }
 .shortcut1 h2 {
@@ -186,6 +176,7 @@ color: #ffffff;
   display: flex;
   color: #CE2829;
   align-items: center;
+  margin-top: 100px;
   }
 
 .shortcut2 h1 {
@@ -206,30 +197,74 @@ padding: 50px;
 border-radius: 12px 12px 12px 12px;
 margin: 30px;
 background-color: #FFEECC;
+;
 
 }
-.container3 {
-  width: Fixed (395px)px;
-height: Fixed (229px)px;
-gap: 82px;
-opacity: 0px;
+.shortcut3 h1 {
+  width: 300px;
+  height: 88px;
+  font-size: 40px;
+  font-weight: 800px;
+  text-align: left;
+  line-height: 40px;
+  
+}
+.shortcut3 h2 {
+  width: 263px;
+  height: 20px;
+  font-size: 35px;
+  text-align: left;
+}
+.shortcut3 button {
+ 
+  width: 138px;
+  height: 48px;
+  border-radius: 50px;
+  display: flex;
+  margin-top: 100px;
+
+  color: #CE2829;
+  
 
 }
-.container3 h1 {
+.shortcut4 {
+width: 395px;
+height: 229px;
+padding: 50px;
+margin: 50px;
+border-radius: 12px;
+
+}
+.shortcut4 h1 {
   width: 395px;
 height: 46px;
-
 color: #CE2829;
 font-family: Satisfy;
 font-size: 32px;
-font-weight: 400;
+font-weight: 600;
 line-height: 44.27px;
 text-align: center;
 margin-top: 10px;
+align-items: center;
 
+}
+.shortcut4 h2 {
+  width: 395px;
+height: 56px;
+color: #292929;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 50px;
+font-weight: 600;
+line-height: 56.2px;
+text-align: center;
+margin-top: 10px;
+align-items: center;
 
 }
 
+.meal1 {
+  display: flex;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
